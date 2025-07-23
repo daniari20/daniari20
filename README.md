@@ -15,6 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 👋 Sobre mí
+
+- 🎓 Soy estudiante universitaria interesada en diseño y programación.
+- 🌍 Me encanta aprender idiomas:
+  - Actualmente estoy aprendiendo coreano 🇰🇷
+  - Quiero aprender alemán 🇩🇪
+- 🎬 Disfruto ver series en mi tiempo libre.
+- 😺 Amo las mascotas
+- 💡 Me gusta el diseño y la programación.
+
+
 ## 🧠 Tecnologías y herramientas que manejo
 
 ### 💻 Lenguajes de programación
